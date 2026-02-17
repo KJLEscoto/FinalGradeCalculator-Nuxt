@@ -16,7 +16,7 @@ export default defineNuxtConfig({
         {
           name: 'description', content: 'Website to calculate your final grades with predefined average formula.'
         },
-        { property: 'og:image', content: '/fgc_thumbnail.png' },
+        { property: 'og:image', content: 'https://kinwebb.netlify.app/fgc_thumbnail.png' },
         { property: 'og:image:width', content: '1200' }, // Optional, the width of the image
         { property: 'og:image:height', content: '630' }, // Optional, the height of the image
         { property: 'og:image:type', content: 'image/png' },
